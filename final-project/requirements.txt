@@ -1,0 +1,7 @@
+pymc
+numpy
+pandas
+arviz==0.18
+matplotlib
+ipywidgets
+graphviz

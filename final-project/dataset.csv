@@ -1,0 +1,1767 @@
+c_file_name,category,error_type,llm_name,num_parameters,num_lines,cyclomatic_complexity
+6109.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,63,2.333
+24107.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,55,1.667
+74967.c,VULNERABLE,arithmetic overflow on sub,gpt35,,107,6.0
+15468.c,VULNERABLE,array bounds violated: upper bound,llama2,13.0,56,9.0
+12779.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,74,6.0
+33595.c,NON-VULNERABLE,,falcon,180.0,69,5.5
+66899.c,VULNERABLE,arithmetic overflow on add,gpt35,,232,4.125
+35740.c,UNKNOWN (time out),,gemma,7.0,98,19.0
+9189.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,136,6.0
+12125.c,VULNERABLE,array bounds violated: upper bound,gpt35,,78,5.0
+30078.c,PARSING ERROR,,gemma,7.0,54,2.333
+1902.c,PARSING ERROR,,falcon2,11.0,59,1.0
+20634.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,147,4.0
+2171.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,84,3.0
+62955.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,109,11.0
+70826.c,VULNERABLE,buffer overflow on scanf,gpt35,,165,3.833
+8251.c,UNKNOWN (time out),,gpt4o_mini,,98,3.6
+44888.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,52,2.75
+27154.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,187,3.273
+2368.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,136,2.833
+39825.c,VULNERABLE,arithmetic overflow on mul,gpt4o_mini,,102,3.0
+13172.c,NON-VULNERABLE,,gemini_pro,,96,1.6
+10245.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,143,2.167
+48612.c,VULNERABLE,buffer overflow on scanf,gpt35,,89,11.0
+7315.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,151,5.0
+494.c,VULNERABLE,buffer overflow on scanf,gpt35,,62,7.0
+22141.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,76,3.0
+48685.c,VULNERABLE,buffer overflow on scanf,gpt35,,168,4.167
+3139.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,91,3.5
+3447.c,UNKNOWN (time out),,mistral,7.0,115,3.25
+76747.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,79,6.0
+13429.c,VULNERABLE,buffer overflow on scanf,gpt35,,126,1.333
+29637.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,146,2.4
+16598.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,55,2.667
+67032.c,VULNERABLE,arithmetic overflow on sub,gpt35,,122,7.0
+25697.c,UNKNOWN (time out),,falcon,180.0,76,4.5
+11329.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,56,3.0
+212.c,UNKNOWN (time out),,gpt35,,55,10.0
+47533.c,VULNERABLE,buffer overflow on scanf,gpt35,,120,4.667
+5379.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,84,2.25
+60964.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,52,3.5
+10065.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,60,2.0
+2665.c,UNKNOWN (time out),,gpt4o_mini,,54,2.25
+74010.c,VULNERABLE,buffer overflow on scanf,gpt35,,238,4.333
+33415.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,88,14.0
+48835.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,81,2.5
+1302.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,75,4.0
+75033.c,VULNERABLE,buffer overflow on scanf,gpt35,,94,16.0
+61341.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,83,4.333
+56904.c,VULNERABLE,buffer overflow on scanf,gpt35,,60,2.667
+57890.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,112,3.25
+58333.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,113,1.833
+36341.c,NON-VULNERABLE,,gemma,7.0,84,2.0
+7416.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,gpt4o_mini,,161,2.667
+5432.c,VULNERABLE,dereference failure: array bounds violated,falcon2,11.0,56,2.0
+17209.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,101,3.0
+40233.c,VULNERABLE,buffer overflow on scanf,gpt35,,56,3.0
+20598.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,107,1.143
+45576.c,VULNERABLE,arithmetic overflow on sub,gpt35,,51,2.0
+19276.c,VULNERABLE,dereference failure: accessed expired variable pointer,falcon,180.0,82,4.0
+20695.c,VULNERABLE,buffer overflow on scanf,gpt35,,94,3.25
+38986.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,108,3.25
+3802.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,3.667
+39068.c,UNKNOWN (time out),,gemini_pro,,58,3.0
+77327.c,VULNERABLE,buffer overflow on scanf,gpt35,,71,6.0
+69187.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,67,2.25
+6741.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,60,5.0
+27401.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,155,4.833
+1417.c,UNKNOWN (time out),,gpt35,,81,7.5
+39710.c,VULNERABLE,buffer overflow on scanf,gpt35,,112,12.0
+27109.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,51,2.0
+55881.c,VULNERABLE,arithmetic overflow on add,gpt35,,410,4.923
+5843.c,UNKNOWN (time out),,falcon2,11.0,79,8.0
+60658.c,VULNERABLE,buffer overflow on scanf,gpt35,,166,9.2
+7859.c,VULNERABLE,array bounds violated: upper bound,mistral,7.0,74,5.0
+18397.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,79,2.4
+48367.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,69,3.0
+16745.c,VULNERABLE,buffer overflow on sscanf,gpt4o_mini,,88,5.333
+62232.c,VULNERABLE,buffer overflow on scanf,gpt35,,77,9.0
+44431.c,VULNERABLE,buffer overflow on scanf,gpt35,,92,14.0
+42523.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,89,3.0
+44339.c,VULNERABLE,buffer overflow on scanf,gpt35,,87,5.0
+21656.c,UNKNOWN (time out),,falcon,180.0,77,8.0
+7011.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,71,3.0
+10737.c,UNKNOWN (time out),,gemma,7.0,54,9.0
+31652.c,VULNERABLE,VLA array size in bytes overflows address space size,gpt35,,94,3.8
+62818.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,77,8.0
+19015.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,59,2.5
+58.c,UNKNOWN (time out),,gpt35,,93,4.75
+465.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,61,1.5
+7114.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,86,9.0
+25999.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,69,2.2
+15550.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,58,3.5
+1535.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,116,5.333
+14263.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,2.5
+1224.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,151,3.571
+30779.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,97,13.0
+8856.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,94,2.167
+8740.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,130,2.0
+7926.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,79,4.667
+6058.c,NON-VULNERABLE,,gemini_pro,,88,1.6
+10979.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,90,3.0
+33765.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,102,3.0
+20564.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,369,8.143
+5327.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,73,3.0
+42349.c,VULNERABLE,dereference failure: forgotten memory,gemma,7.0,53,3.5
+26045.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,54,5.0
+11670.c,UNKNOWN (time out),,gemma,7.0,62,6.5
+46030.c,NON-VULNERABLE,,falcon,180.0,52,1.75
+18030.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,92,3.333
+11746.c,VULNERABLE,array bounds violated: lower bound,llama2,13.0,85,12.0
+28187.c,NON-VULNERABLE,,gemma,7.0,52,2.667
+27067.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,125,2.0
+19601.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,101,2.8
+3182.c,VULNERABLE,arithmetic overflow on mul,gemma,7.0,52,5.0
+18858.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,88,5.0
+12815.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,105,2.125
+42400.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,90,1.833
+38304.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,53,6.0
+41644.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,66,5.0
+15379.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,108,7.5
+1915.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,93,2.2
+11974.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,70,3.5
+1662.c,VULNERABLE,the pointer to a file object must be a valid argument,gpt35,,59,4.0
+68463.c,VULNERABLE,array bounds violated: upper bound,gpt35,,197,2.857
+31871.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,82,2.333
+61584.c,VULNERABLE,buffer overflow on scanf,gpt35,,70,6.0
+30920.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,60,1.2
+36204.c,NON-VULNERABLE,,gemma,7.0,55,1.25
+3839.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,76,2.8
+6388.c,VULNERABLE,buffer overflow on sscanf,falcon2,11.0,69,8.0
+8688.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,57,2.667
+22783.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,84,1.667
+2658.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,123,2.167
+32630.c,UNKNOWN (time out),,gemini_pro,,98,4.667
+36440.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,68,3.0
+12678.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,100,15.0
+17578.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,66,2.333
+3074.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,99,1.75
+19275.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,73,2.0
+16021.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,105,15.0
+34875.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,117,6.0
+350.c,VULNERABLE,dereference failure: forgotten memory,llama2,13.0,52,1.25
+38132.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,122,3.0
+9192.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,212,7.6
+13934.c,UNKNOWN (time out),,gpt35,,67,3.0
+23127.c,NON-VULNERABLE,,gemini_pro,,64,7.0
+9802.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,1.75
+12310.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,78,2.6
+27915.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,2.333
+53642.c,VULNERABLE,buffer overflow on scanf,gpt35,,71,10.0
+20169.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,51,2.5
+52878.c,VULNERABLE,buffer overflow on scanf,gpt35,,355,13.0
+70282.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,120,2.143
+29415.c,VULNERABLE,VLA array size in bytes overflows address space size,gpt35,,153,4.5
+26123.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,94,2.4
+41251.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,63,5.0
+26539.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,72,2.2
+25082.c,VULNERABLE,array bounds violated: lower bound,gpt35,,59,3.0
+14758.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,78,10.0
+56511.c,VULNERABLE,arithmetic overflow on mul,gpt35,,58,7.0
+29680.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,1.667
+19519.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,81,2.0
+27095.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,80,2.0
+39844.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,155,5.4
+15255.c,PARSING ERROR,,llama2,13.0,87,3.167
+18562.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,163,4.0
+1455.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,164,3.0
+73451.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,96,15.0
+40030.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,111,1.0
+20027.c,VULNERABLE,buffer overflow on scanf,gpt35,,208,4.333
+5582.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,57,3.0
+41292.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,68,2.0
+42955.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gemma,7.0,93,21.0
+30385.c,UNKNOWN (time out),,gemma,7.0,119,4.333
+472.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,118,7.25
+42554.c,UNKNOWN (time out),,gemma,7.0,71,4.0
+38071.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,107,3.0
+31056.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,57,1.5
+46247.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,105,3.8
+13189.c,UNKNOWN (time out),,gpt4o_mini,,77,3.667
+2890.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,105,3.6
+26324.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,63,4.0
+19348.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,87,1.625
+29093.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,85,2.667
+4614.c,VULNERABLE,arithmetic overflow on mul,codellama,13.0,78,2.5
+24344.c,UNKNOWN (time out),,gpt35,,343,10.889
+14311.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,62,5.0
+29132.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,2.667
+18577.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,96,3.333
+6423.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,155,8.667
+67448.c,VULNERABLE,buffer overflow on scanf,gpt35,,196,3.667
+32460.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,93,1.25
+39862.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,128,4.333
+42849.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,61,2.75
+10596.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,52,4.0
+3039.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,82,2.25
+14644.c,UNKNOWN (time out),,gemini_pro,,93,11.0
+30772.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,73,8.0
+39267.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,93,2.8
+39360.c,PARSING ERROR,,gemini_pro,,89,3.0
+66739.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,122,6.667
+72369.c,VULNERABLE,buffer overflow on scanf,gpt35,,87,3.0
+2167.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,196,6.667
+6261.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,75,3.667
+59328.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,333,6.4
+31961.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,237,2.4
+18340.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,81,10.0
+15955.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,124,4.667
+9686.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,69,8.0
+61056.c,UNKNOWN (time out),,falcon,180.0,66,2.25
+26104.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,81,10.0
+19000.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,91,2.8
+24683.c,VULNERABLE,division by zero,falcon,180.0,54,3.5
+10385.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,7.0
+2724.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,175,21.0
+44911.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,2.333
+12133.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,57,6.5
+39937.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,63,1.8
+11018.c,UNKNOWN (time out),,gpt4o_mini,,75,2.2
+38641.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,146,3.375
+10185.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,96,14.0
+3662.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,90,2.167
+6531.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,64,2.75
+42146.c,VULNERABLE,buffer overflow on scanf,gpt35,,199,23.0
+31448.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,153,6.5
+19882.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,78,1.286
+40254.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,95,3.25
+75458.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,95,1.5
+50945.c,VULNERABLE,buffer overflow on scanf,gpt35,,74,1.0
+50882.c,VULNERABLE,buffer overflow on scanf,gpt35,,92,2.25
+10.c,VULNERABLE,arithmetic overflow on mul,gemini_pro,,71,2.25
+21528.c,VULNERABLE,arithmetic overflow on add,gpt35,,51,2.0
+23728.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,3.5
+12901.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,85,5.0
+29805.c,VULNERABLE,array bounds violated: lower bound,gpt35,,59,17.0
+28327.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,67,2.0
+6497.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,85,1.333
+1908.c,UNKNOWN (time out),,falcon,180.0,73,4.5
+17551.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,76,2.0
+37236.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,57,3.0
+13295.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,84,3.0
+60621.c,VULNERABLE,buffer overflow on scanf,gpt35,,78,7.0
+34001.c,VULNERABLE,array bounds violated: upper bound,gpt35,,104,26.0
+24713.c,VULNERABLE,array bounds violated: upper bound,gpt35,,145,10.25
+24306.c,VULNERABLE,arithmetic overflow on sub,gpt35,,92,11.0
+71269.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,143,2.071
+345.c,VULNERABLE,dereference failure: accessed expired variable pointer,falcon,180.0,73,2.333
+70597.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,63,1.5
+10243.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,97,13.0
+23353.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,90,2.0
+6548.c,VULNERABLE,dereference failure: forgotten memory,llama2,13.0,66,1.4
+37919.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,162,3.429
+62327.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,60,2.667
+3587.c,UNKNOWN (time out),,gpt4o_mini,,86,2.8
+1033.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,55,1.5
+9764.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,106,3.0
+32137.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,77,2.0
+9792.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,90,2.0
+7310.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,137,3.333
+71065.c,VULNERABLE,buffer overflow on scanf,gpt35,,119,3.8
+10638.c,UNKNOWN (time out),,falcon2,11.0,117,5.0
+27892.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,59,3.0
+3076.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,113,2.333
+769.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,75,2.25
+65047.c,UNKNOWN (time out),,falcon,180.0,73,3.5
+10379.c,VULNERABLE,array bounds violated: lower bound,gpt35,,82,13.0
+1732.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,109,6.0
+45037.c,VULNERABLE,buffer overflow on scanf,gpt35,,145,13.0
+76072.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,100,4.2
+38598.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,133,3.0
+26562.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,154,2.5
+6683.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,61,7.0
+17820.c,VULNERABLE,array bounds violated: upper bound,llama2,13.0,107,3.25
+25086.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,84,2.4
+9674.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,60,8.0
+2412.c,UNKNOWN (time out),,falcon,180.0,72,1.6
+2487.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,124,2.2
+11051.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,76,7.0
+2515.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,79,2.333
+18341.c,UNKNOWN (time out),,gpt35,,72,4.0
+4957.c,VULNERABLE,buffer overflow on scanf,gpt35,,139,3.0
+26390.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,60,3.0
+1451.c,VULNERABLE,buffer overflow on fscanf,gemini_pro,,60,7.0
+27749.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,54,5.0
+10460.c,UNKNOWN (time out),,gemini_pro,,81,2.5
+5489.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,100,2.6
+15095.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,161,10.0
+42040.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,83,3.75
+41281.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,85,3.75
+50785.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,91,3.5
+48395.c,VULNERABLE,buffer overflow on scanf,gpt35,,62,8.0
+10414.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,75,5.333
+129.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,51,1.25
+57342.c,UNKNOWN (time out),,falcon,180.0,62,3.25
+222.c,NON-VULNERABLE,,gemini_pro,,85,8.0
+30947.c,UNKNOWN (time out),,falcon,180.0,67,4.0
+73442.c,VULNERABLE,buffer overflow on scanf,gpt35,,114,5.0
+11640.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,55,2.333
+12359.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,165,5.5
+9722.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,59,2.0
+67291.c,VULNERABLE,division by zero,falcon,180.0,78,3.167
+15529.c,UNKNOWN (time out),,gemini_pro,,74,2.2
+11239.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,80,9.0
+39307.c,VULNERABLE,buffer overflow on scanf,gpt35,,129,3.667
+11231.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,173,3.9
+25933.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,2.0
+18035.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,85,2.5
+11786.c,VULNERABLE,dereference failure: invalid pointer,codellama,13.0,74,5.0
+16764.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,56,1.5
+24759.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,131,20.0
+33051.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,96,3.333
+71356.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,54,2.25
+38469.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,135,3.833
+17167.c,VULNERABLE,buffer overflow on scanf,gpt35,,251,5.333
+38471.c,VULNERABLE,other,gemini_pro,,101,4.4
+19563.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,64,2.0
+27725.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,70,1.6
+72188.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,160,3.857
+8385.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,64,4.0
+71989.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,87,1.625
+10594.c,UNKNOWN (time out),,gpt35,,122,7.571
+61017.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,70,15.0
+21086.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,95,1.5710000000000002
+63568.c,VULNERABLE,arithmetic overflow on floating-point ieee_add,gpt35,,66,1.0
+77414.c,VULNERABLE,buffer overflow on scanf,gpt35,,94,3.0
+7263.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,74,3.0
+19218.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,78,3.333
+3690.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,161,3.125
+17764.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,101,2.5
+34715.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,275,4.727
+12509.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,98,3.0
+7951.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,79,2.6
+39604.c,VULNERABLE,arithmetic overflow on mul,gemini_pro,,103,4.0
+2130.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,3.0
+32109.c,UNKNOWN (time out),,gemini_pro,,66,2.667
+11331.c,VULNERABLE,buffer overflow on scanf,gpt35,,57,5.0
+32319.c,UNKNOWN (time out),,gemini_pro,,89,21.0
+16292.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,2.5
+14253.c,UNKNOWN (time out),,gemini_pro,,124,2.714
+32638.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,100,15.0
+3759.c,VULNERABLE,buffer overflow on scanf,llama2,13.0,80,4.0
+16325.c,VULNERABLE,arithmetic overflow on add,llama2,13.0,75,2.0
+30059.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,52,1.5
+52383.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,126,3.5
+71367.c,UNKNOWN (time out),,gpt35,,94,2.5
+11003.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,60,1.4
+67433.c,UNKNOWN (time out),,gpt35,,58,3.0
+11527.c,VULNERABLE,arithmetic overflow on mul,gemma,7.0,62,3.0
+38595.c,VULNERABLE,array bounds violated: lower bound,gpt35,,77,10.333
+1550.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,54,5.0
+25588.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,98,2.8
+33836.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,66,2.0
+40432.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,88,8.5
+772.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,116,2.0
+22783.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,143,6.667
+28.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,172,3.5
+34490.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,177,2.833
+3281.c,VULNERABLE,dereference failure: invalid pointer,mistral,7.0,96,3.667
+58387.c,VULNERABLE,buffer overflow on scanf,gpt35,,76,3.333
+64468.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,103,13.0
+124.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,74,3.667
+30249.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,56,1.667
+7762.c,VULNERABLE,arithmetic overflow on mul,codellama,13.0,102,2.6
+12802.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,60,5.0
+16614.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,104,3.75
+16017.c,VULNERABLE,arithmetic overflow on add,gemma,7.0,87,15.0
+33228.c,VULNERABLE,arithmetic overflow on sub,gpt35,,59,5.0
+33751.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,52,2.667
+36557.c,VULNERABLE,arithmetic overflow on mul,gpt4o_mini,,107,2.2
+4403.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,137,1.625
+49882.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,7.0
+6390.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,79,2.4
+39454.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,108,3.833
+34274.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,76,3.0
+42620.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,57,2.25
+8597.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,64,7.0
+132.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,101,10.0
+8086.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,79,4.0
+5490.c,VULNERABLE,array bounds violated: upper bound,mistral,7.0,60,2.333
+3645.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,74,3.25
+57543.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,81,3.25
+38929.c,UNKNOWN (time out),,gemini_pro,,80,5.0
+41171.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,106,3.0
+37421.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,59,10.0
+37283.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,105,4.25
+4398.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,158,5.667
+32623.c,NON-VULNERABLE,,gpt4o_mini,,85,3.4
+59794.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,85,9.0
+5525.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,79,4.333
+16657.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,98,1.875
+35505.c,VULNERABLE,arithmetic overflow on add,gpt4o_mini,,119,4.6
+68730.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,90,10.0
+19443.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,127,9.0
+51472.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,62,3.0
+41954.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,73,1.5
+29643.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,87,2.4
+25729.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,9.0
+29497.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,151,4.111
+39835.c,VULNERABLE,buffer overflow on scanf,gpt35,,128,4.4
+37175.c,UNKNOWN (time out),,gpt4o_mini,,119,6.0
+14960.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,132,2.375
+38306.c,VULNERABLE,dereference failure: Access to object out of bounds,gpt4o_mini,,115,3.167
+26590.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,182,3.556
+2489.c,UNKNOWN (time out),,codellama,13.0,158,4.571
+38527.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,81,1.0
+1474.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,60,9.0
+23956.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,69,1.5710000000000002
+4828.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,52,14.0
+2105.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,130,1.8
+13122.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,2.2
+3313.c,VULNERABLE,arithmetic overflow on add,gpt4o_mini,,131,3.286
+29634.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,135,3.667
+11347.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,100,17.0
+36747.c,UNKNOWN (time out),,falcon,180.0,70,9.0
+6733.c,VULNERABLE,dereference failure: invalid pointer,mistral,7.0,83,2.2
+25472.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,62,1.2
+3578.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,126,2.667
+12407.c,VULNERABLE,buffer overflow on scanf,gpt35,,59,7.0
+27176.c,VULNERABLE,buffer overflow on sscanf,gpt4o_mini,,120,6.5
+2766.c,VULNERABLE,arithmetic overflow on mul,gemma,7.0,56,7.0
+14799.c,VULNERABLE,arithmetic overflow on add,gemini_pro,,142,7.5
+24837.c,VULNERABLE,division by zero,gpt4o_mini,,77,3.0
+4495.c,NON-VULNERABLE,,gemma,7.0,52,1.0
+8476.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,93,2.667
+33845.c,VULNERABLE,buffer overflow on scanf,gpt35,,56,4.0
+18501.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,61,1.4
+36165.c,VULNERABLE,buffer overflow on scanf,gpt35,,75,9.0
+41866.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,79,3.333
+25545.c,VULNERABLE,buffer overflow on fscanf,falcon,180.0,80,2.5
+58714.c,VULNERABLE,buffer overflow on scanf,gpt35,,92,22.0
+39996.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,165,3.375
+11400.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,73,8.0
+11280.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,83,4.0
+43113.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,159,3.6
+9155.c,VULNERABLE,buffer overflow on scanf,gpt35,,74,2.75
+41983.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,67,1.5
+710.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,54,7.0
+10648.c,UNKNOWN (time out),,codellama,13.0,73,2.5
+33749.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,55,8.0
+61937.c,UNKNOWN (time out),,falcon,180.0,67,5.5
+2131.c,VULNERABLE,buffer overflow on scanf,gpt35,,69,11.0
+39121.c,UNKNOWN (time out),,gpt4o_mini,,112,5.333
+8838.c,UNKNOWN (time out),,gpt35,,98,4.75
+3632.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,82,2.25
+38573.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,100,2.0
+12754.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,55,4.0
+12994.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,74,7.0
+25834.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,82,10.0
+25994.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,128,2.429
+38915.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,134,3.8
+16472.c,VULNERABLE,buffer overflow on scanf,gpt35,,86,2.8
+27215.c,VULNERABLE,buffer overflow on scanf,gpt35,,71,4.0
+14618.c,VULNERABLE,dereference failure: forgotten memory,llama2,13.0,76,2.8
+18530.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,4.5
+26166.c,VULNERABLE,arithmetic overflow on floating-point ieee_sub,gpt35,,59,1.167
+60898.c,VULNERABLE,VLA array size in bytes overflows address space size,gpt35,,146,6.0
+65077.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,71,9.0
+21905.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,65,1.75
+17574.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,59,1.75
+2836.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,74,3.0
+14340.c,VULNERABLE,arithmetic overflow on sub,falcon,180.0,123,2.222
+36155.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,66,4.0
+1184.c,VULNERABLE,arithmetic overflow on sub,gpt4o_mini,,111,6.0
+49458.c,VULNERABLE,arithmetic overflow on sub,falcon,180.0,79,5.0
+4427.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,68,4.667
+33764.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,63,2.5
+47244.c,VULNERABLE,buffer overflow on scanf,gpt35,,53,3.5
+6993.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,107,1.778
+15078.c,UNKNOWN (time out),,falcon,180.0,86,4.6
+75892.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,54,4.0
+47841.c,VULNERABLE,buffer overflow on scanf,gpt35,,92,3.75
+68272.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,91,7.0
+47439.c,UNKNOWN (time out),,falcon,180.0,79,4.333
+64190.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,104,2.6
+7375.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,55,3.0
+32217.c,UNKNOWN (time out),,gpt4o_mini,,87,6.0
+31991.c,UNKNOWN (time out),,gpt4o_mini,,114,7.5
+33332.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,64,2.2
+20435.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,58,2.0
+13062.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,76,4.0
+31070.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,57,3.0
+47828.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,103,2.333
+4772.c,VULNERABLE,dereference failure: of non-dynamic memory,gemma,7.0,55,2.5
+26203.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,163,2.6
+12812.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,114,3.143
+56058.c,VULNERABLE,buffer overflow on scanf,gpt35,,155,4.4
+27801.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,133,2.125
+25027.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,65,5.0
+10768.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,86,5.5
+9341.c,UNKNOWN (time out),,gpt4o_mini,,71,3.0
+39841.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,77,2.333
+43484.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,82,13.0
+9774.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,68,2.0
+29349.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,79,3.667
+14215.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,81,13.0
+4176.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,75,2.0
+957.c,VULNERABLE,buffer overflow on scanf,gpt35,,149,4.6
+37996.c,UNKNOWN (time out),,gpt35,,61,2.25
+18274.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,75,4.0
+2969.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,68,1.4
+46540.c,VULNERABLE,buffer overflow on scanf,gpt35,,61,2.25
+18030.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,92,3.333
+36409.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,82,1.857
+24968.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,171,6.0
+25336.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,3.5
+9428.c,NON-VULNERABLE,,llama2,13.0,55,1.25
+12088.c,UNKNOWN (time out),,falcon,180.0,75,6.0
+26117.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,61,4.0
+2791.c,VULNERABLE,arithmetic overflow on add,gpt35,,151,4.333
+26525.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,90,1.714
+18053.c,VULNERABLE,dereference failure: invalid pointer,gemma,7.0,51,5.5
+42234.c,VULNERABLE,buffer overflow on scanf,gpt35,,69,2.667
+24331.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,130,2.857
+30723.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,114,3.0
+5591.c,VULNERABLE,division by zero,falcon2,11.0,52,6.0
+34174.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,189,19.0
+4297.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,236,2.25
+29968.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,136,3.286
+7704.c,NON-VULNERABLE,,llama2,13.0,97,2.0
+22980.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,62,4.0
+36517.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,77,2.0
+2444.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,111,2.571
+41911.c,VULNERABLE,buffer overflow on scanf,gpt35,,78,10.0
+15031.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,55,1.667
+27352.c,VULNERABLE,arithmetic overflow on mul,gemini_pro,,126,2.0
+33282.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,78,3.333
+7040.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,54,5.0
+12494.c,VULNERABLE,dereference failure: Object accessed with incompatible base type,llama2,13.0,68,3.75
+40747.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,60,7.0
+57114.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,97,4.5
+20220.c,VULNERABLE,buffer overflow on scanf,gpt35,,146,3.8
+3703.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,93,8.0
+38470.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,85,11.0
+12857.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,3.0
+35831.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,2.5
+15666.c,VULNERABLE,buffer overflow on scanf,gpt35,,192,4.286
+62585.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,75,3.25
+10049.c,VULNERABLE,arithmetic overflow on floating-point ieee_add,falcon,180.0,69,2.0
+1495.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,105,4.667
+8006.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,89,12.0
+13814.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,57,4.0
+46267.c,UNKNOWN (time out),,gpt35,,55,2.5
+18962.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,99,3.5
+37258.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,66,8.0
+2987.c,VULNERABLE,the pointer to a file object must be a valid argument,falcon2,11.0,65,1.0
+10795.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,77,4.0
+3919.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,85,3.0
+8904.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,123,3.4
+52277.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,51,2.0
+67658.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,53,3.5
+7262.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,109,4.0
+43695.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,1.75
+16871.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,3.5
+3099.c,VULNERABLE,dereference failure: invalidated dynamic object,gemini_pro,,105,2.4
+17104.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,74,3.5
+41741.c,VULNERABLE,buffer overflow on scanf,gpt35,,104,4.333
+14332.c,VULNERABLE,buffer overflow on scanf,gpt35,,60,5.0
+28720.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,57,2.25
+20467.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,72,1.8
+5927.c,VULNERABLE,dereference failure: Access to object out of bounds,gemini_pro,,143,6.6
+5529.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,82,3.8
+35951.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,56,3.0
+10388.c,UNKNOWN (time out),,gemini_pro,,88,2.8
+74388.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,87,4.5
+31566.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,53,6.0
+35550.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,68,11.0
+4680.c,VULNERABLE,dereference failure: invalid pointer,mistral,7.0,70,3.5
+1436.c,UNKNOWN (time out),,gpt35,,71,4.0
+43228.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,2.0
+39593.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,91,2.6
+47416.c,VULNERABLE,buffer overflow on sscanf,gpt35,,63,1.6
+30573.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,176,11.5
+18579.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,63,2.0
+10793.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,81,6.0
+38980.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,67,4.0
+21788.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,103,11.0
+8253.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,2.0
+22141.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,69,1.2
+2956.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,76,1.667
+15182.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,132,8.667
+43008.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,82,3.0
+54434.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,215,4.4
+121.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt4o_mini,,74,2.5
+46854.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,70,5.5
+22593.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,100,2.2
+26339.c,VULNERABLE,buffer overflow on scanf,gpt35,,132,15.0
+10443.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,167,3.375
+45146.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,98,2.25
+28025.c,UNKNOWN (time out),,gemini_pro,,73,8.0
+12070.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,100,3.0
+20624.c,UNKNOWN (time out),,gpt4o_mini,,71,4.25
+65624.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,99,3.667
+52803.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,99,1.833
+5175.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,61,2.0
+44986.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,64,2.25
+10464.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,59,2.25
+120.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,84,5.0
+18584.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,82,2.6
+38702.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,81,9.0
+44264.c,VULNERABLE,arithmetic overflow on sub,gpt35,,58,2.5
+36609.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,136,5.0
+32508.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,216,3.8
+76482.c,VULNERABLE,buffer overflow on scanf,gpt35,,78,5.0
+50196.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,65,8.0
+28384.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,107,1.857
+46576.c,UNKNOWN (time out),,gpt35,,113,16.0
+20161.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,59,5.0
+36992.c,UNKNOWN (time out),,falcon,180.0,97,9.0
+41199.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,71,4.0
+32069.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,116,4.0
+24023.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,89,10.0
+34218.c,VULNERABLE,buffer overflow on scanf,gpt35,,119,15.0
+11164.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,51,4.5
+15133.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,73,2.6
+10828.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,102,9.5
+2849.c,NON-VULNERABLE,,gemma,7.0,77,18.0
+1725.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,52,3.0
+59804.c,UNKNOWN (time out),,falcon,180.0,56,2.75
+4214.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,105,4.75
+40033.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,80,1.8
+14358.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,83,5.0
+19158.c,UNKNOWN (time out),,gemini_pro,,59,6.0
+53962.c,UNKNOWN (time out),,falcon,180.0,69,6.0
+13048.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,70,14.0
+31591.c,VULNERABLE,buffer overflow on scanf,gpt35,,128,5.833
+9972.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,112,5.0
+31136.c,VULNERABLE,dereference failure: invalidated dynamic object,gpt35,,88,4.667
+28970.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,67,2.0
+23338.c,NON-VULNERABLE,,gemma,7.0,65,1.0
+65101.c,VULNERABLE,buffer overflow on scanf,gpt35,,138,3.2
+6155.c,VULNERABLE,buffer overflow on scanf,gpt35,,112,19.0
+841.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,76,2.6
+11497.c,VULNERABLE,dereference failure: invalid pointer,codellama,13.0,124,4.0
+1544.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,55,2.5
+60813.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,64,4.5
+20295.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,11.0
+9248.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,93,4.25
+22985.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,119,3.2
+28889.c,UNKNOWN (time out),,gpt4o_mini,,109,1.889
+19136.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,160,4.833
+10559.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,58,4.0
+3600.c,VULNERABLE,dereference failure: forgotten memory,falcon2,11.0,119,2.667
+44897.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,102,3.0
+26991.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,85,4.667
+22686.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,70,2.0
+26042.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,74,1.667
+8644.c,UNKNOWN (time out),,falcon2,11.0,67,8.0
+16402.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,129,1.286
+64224.c,VULNERABLE,buffer overflow on scanf,gpt35,,59,7.0
+6091.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,103,2.4
+49132.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,76,2.5
+1852.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,64,4.0
+2044.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,77,2.5
+20818.c,UNKNOWN (time out),,gpt4o_mini,,124,5.333
+13592.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,86,3.0
+17654.c,VULNERABLE,buffer overflow on scanf,gpt35,,69,2.2
+39490.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,136,3.5
+2791.c,PARSING ERROR,,gemma,7.0,87,2.4
+16179.c,VULNERABLE,arithmetic overflow on sub,gpt35,,73,15.0
+31358.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,61,8.0
+11180.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,84,1.75
+19588.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,68,10.0
+31883.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,75,5.0
+32282.c,VULNERABLE,buffer overflow on scanf,gpt35,,175,4.5
+17955.c,VULNERABLE,other,gemini_pro,,79,2.4
+14003.c,PARSING ERROR,,gemma,7.0,61,4.0
+8440.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,65,8.0
+13076.c,NON-VULNERABLE,,falcon,180.0,78,1.625
+31672.c,UNKNOWN (time out),,gemma,7.0,61,5.0
+33348.c,VULNERABLE,arithmetic overflow on sub,falcon,180.0,82,3.0
+42964.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,65,3.4
+36228.c,VULNERABLE,dereference failure: array bounds violated,gpt4o_mini,,113,2.4
+37015.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,67,3.0
+42412.c,VULNERABLE,buffer overflow on scanf,gpt35,,55,6.0
+28142.c,VULNERABLE,dereference failure: forgotten memory,gemma,7.0,73,1.5
+5193.c,VULNERABLE,dereference failure: forgotten memory,llama2,13.0,79,2.75
+12094.c,VULNERABLE,buffer overflow on scanf,gpt35,,96,11.0
+38594.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,69,5.0
+22137.c,UNKNOWN (time out),,gpt4o_mini,,91,3.0
+62010.c,VULNERABLE,buffer overflow on scanf,gpt35,,58,5.0
+7066.c,UNKNOWN (time out),,falcon2,11.0,65,4.0
+28552.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,154,3.857
+19315.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,110,2.833
+15664.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,60,6.0
+31366.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,57,2.5
+2369.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,81,1.75
+32764.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,99,5.75
+16357.c,UNKNOWN (time out),,gemini_pro,,81,3.5
+50562.c,VULNERABLE,buffer overflow on scanf,gpt35,,119,10.0
+35458.c,UNKNOWN (time out),,falcon,180.0,84,2.5
+34415.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,86,1.75
+182.c,UNKNOWN (time out),,gpt35,,78,23.0
+10918.c,VULNERABLE,arithmetic overflow on add,gpt4o_mini,,79,2.25
+67054.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,104,6.0
+62116.c,VULNERABLE,buffer overflow on scanf,gpt35,,59,12.0
+47685.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,53,2.333
+33364.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,82,3.2
+4699.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,82,3.5
+53061.c,VULNERABLE,buffer overflow on scanf,gpt35,,59,6.0
+4401.c,UNKNOWN (time out),,gpt35,,59,12.0
+30471.c,VULNERABLE,buffer overflow on scanf,gpt35,,139,9.0
+41868.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,3.5
+41672.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,62,7.0
+5880.c,VULNERABLE,buffer overflow on scanf,gpt35,,78,2.333
+33805.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,131,5.0
+56734.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon,180.0,75,1.2
+18094.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,144,3.25
+9732.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,58,1.25
+43718.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,76,2.667
+8937.c,VULNERABLE,arithmetic overflow on add,llama2,13.0,112,6.333
+42572.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,287,4.5
+32110.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,142,3.286
+70963.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt35,,87,3.333
+1906.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,85,3.75
+13730.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,85,3.333
+8049.c,NON-VULNERABLE,,gpt35,,51,2.0
+11597.c,VULNERABLE,buffer overflow on scanf,gpt35,,176,8.333
+12644.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,81,5.0
+73804.c,NON-VULNERABLE,,gpt35,,65,1.0
+61515.c,VULNERABLE,buffer overflow on scanf,gpt35,,89,4.0
+73087.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,106,4.667
+10039.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,155,6.0
+555.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,99,3.5
+26042.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,154,3.667
+76667.c,UNKNOWN (time out),,gpt35,,143,3.6
+41920.c,VULNERABLE,buffer overflow on scanf,gpt35,,62,6.0
+71297.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,69,5.0
+6362.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,111,2.167
+66267.c,VULNERABLE,buffer overflow on scanf,gpt35,,85,9.0
+66711.c,VULNERABLE,buffer overflow on scanf,gpt35,,100,3.333
+14105.c,NON-VULNERABLE,,gpt4o_mini,,69,2.25
+56004.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,98,2.429
+6703.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,69,1.333
+58618.c,UNKNOWN (time out),,gpt35,,106,22.0
+22471.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,161,2.875
+5763.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,53,3.0
+43326.c,VULNERABLE,array bounds violated: upper bound,gpt35,,105,9.0
+15355.c,VULNERABLE,buffer overflow on fscanf,gemini_pro,,112,3.6
+74053.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,111,2.75
+3506.c,NON-VULNERABLE,,llama2,13.0,52,3.0
+17330.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,107,5.0
+46574.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,184,18.0
+61.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,75,3.0
+49234.c,VULNERABLE,buffer overflow on scanf,gpt35,,58,7.0
+32461.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,80,2.8
+24037.c,NON-VULNERABLE,,gemini_pro,,78,2.0
+58130.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,2.0
+33306.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,113,1.444
+11407.c,VULNERABLE,dereference failure: forgotten memory,codellama,13.0,63,3.333
+20907.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,80,4.5
+44736.c,VULNERABLE,array bounds violated: lower bound,gpt35,,88,9.333
+16558.c,UNKNOWN (time out),,gemma,7.0,51,6.0
+2773.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,60,4.0
+51806.c,VULNERABLE,buffer overflow on scanf,gpt35,,113,4.167
+35349.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,65,2.75
+25936.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,104,3.2
+3389.c,VULNERABLE,dereference failure: invalid pointer,codellama,13.0,83,2.0
+71120.c,UNKNOWN (time out),,gpt35,,84,7.0
+55546.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,132,2.0
+12989.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,75,5.0
+45681.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,51,4.5
+64704.c,VULNERABLE,buffer overflow on scanf,gpt35,,78,3.667
+42180.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,3.667
+5571.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,174,3.8
+13149.c,UNKNOWN (time out),,gpt35,,116,4.667
+55904.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,53,7.0
+43496.c,NON-VULNERABLE,,gemma,7.0,55,5.0
+26436.c,NON-VULNERABLE,,gemma,7.0,57,3.0
+60190.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,99,9.0
+11086.c,VULNERABLE,dereference failure: forgotten memory,codellama,13.0,89,2.5
+31767.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,158,4.5
+9317.c,VULNERABLE,arithmetic overflow on mul,gemini_pro,,142,4.2
+51380.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,230,6.0
+6443.c,UNKNOWN (time out),,llama2,13.0,91,4.0
+3627.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,176,3.083
+11451.c,VULNERABLE,array bounds violated: upper bound,falcon2,11.0,85,10.0
+38209.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,1.5
+28982.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,89,3.333
+53426.c,UNKNOWN (time out),,gpt35,,96,9.0
+13443.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,58,7.0
+14088.c,VULNERABLE,arithmetic overflow on add,gemma,7.0,104,5.5
+6445.c,VULNERABLE,array bounds violated: upper bound,llama2,13.0,72,14.0
+32153.c,VULNERABLE,buffer overflow on scanf,gpt35,,65,3.0
+37636.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,175,3.571
+46281.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,218,4.714
+2195.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,51,1.667
+63246.c,VULNERABLE,buffer overflow on scanf,gpt35,,183,5.25
+22191.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,128,3.167
+66364.c,VULNERABLE,arithmetic overflow on sub,gpt35,,112,9.0
+65676.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,78,3.0
+73930.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,109,16.0
+49113.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,63,2.0
+21953.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,69,8.0
+54780.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,4.0
+26129.c,VULNERABLE,arithmetic overflow on add,gemini_pro,,160,4.2
+6130.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,130,3.286
+19818.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,139,4.333
+18829.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,81,2.167
+32105.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,104,2.6
+30745.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,129,1.286
+23373.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,71,7.0
+9776.c,VULNERABLE,VLA array size in bytes overflows address space size,falcon,180.0,53,4.5
+8846.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,127,4.167
+11071.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,85,2.5
+585.c,UNKNOWN (time out),,gemini_pro,,75,1.25
+5477.c,VULNERABLE,arithmetic overflow on mul,codellama,13.0,69,1.0
+10938.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,69,1.5
+59152.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,189,2.071
+30111.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,98,2.5
+46979.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,60,1.75
+5160.c,VULNERABLE,other,falcon2,11.0,114,2.0
+20057.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,134,3.333
+2271.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,91,4.5
+6463.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,70,4.5
+53218.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,137,3.5
+15106.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,153,2.889
+51098.c,VULNERABLE,arithmetic overflow on sub,gpt35,,185,9.0
+45908.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,123,2.4
+23603.c,VULNERABLE,buffer overflow on scanf,gpt35,,119,3.667
+18613.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,89,5.5
+63845.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,82,3.25
+14195.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,140,3.333
+48185.c,UNKNOWN (time out),,falcon,180.0,75,5.0
+6784.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,76,2.5
+48309.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,gpt35,,65,3.5
+42989.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,2.5
+9065.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,77,6.5
+46411.c,VULNERABLE,buffer overflow on scanf,gpt35,,140,3.75
+35680.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,53,3.0
+76138.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,98,6.667
+2052.c,UNKNOWN (time out),,gemini_pro,,71,6.0
+8087.c,UNKNOWN (time out),,gpt4o_mini,,142,2.857
+35373.c,UNKNOWN (time out),,falcon,180.0,64,12.0
+68876.c,VULNERABLE,buffer overflow on scanf,gpt35,,105,3.5
+688.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,56,1.75
+48816.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,57,1.75
+11218.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,89,3.667
+4288.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,108,1.667
+71761.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,70,12.0
+62578.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,97,2.8
+28821.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,130,2.1
+3006.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,83,3.333
+76188.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,108,16.0
+61432.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,92,3.667
+40264.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,58,5.5
+27589.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,95,6.0
+4018.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,129,2.667
+61181.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,94,1.833
+9680.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,74,1.0
+3141.c,UNKNOWN (time out),,llama2,13.0,62,14.0
+3207.c,VULNERABLE,buffer overflow on sscanf,gpt35,,65,3.0
+7760.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,143,1.9
+58145.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,76,3.0
+17310.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,64,9.0
+29163.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,66,3.5
+32068.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,127,1.25
+71709.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,124,12.0
+27857.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,11.0
+3474.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,174,7.333
+40681.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,82,3.5
+16018.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,64,1.667
+12935.c,VULNERABLE,dereference failure: array bounds violated,llama2,13.0,76,7.0
+72139.c,VULNERABLE,buffer overflow on scanf,gpt35,,131,3.6
+8448.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,108,2.333
+35498.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,104,4.4
+34728.c,VULNERABLE,buffer overflow on scanf,gpt35,,149,15.0
+6069.c,UNKNOWN (time out),,gpt35,,60,2.2
+22068.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,124,4.75
+6762.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,86,2.167
+15269.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,100,4.333
+72615.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,196,1.444
+18532.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,57,1.0
+65166.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,65,1.8
+57168.c,VULNERABLE,buffer overflow on scanf,gpt35,,60,2.333
+7692.c,VULNERABLE,dereference failure: forgotten memory,falcon2,11.0,129,3.6
+10821.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,90,7.5
+62138.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,83,2.667
+16026.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,83,3.25
+35239.c,VULNERABLE,buffer overflow on scanf,gpt35,,82,6.0
+68737.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,89,4.0
+55815.c,VULNERABLE,buffer overflow on scanf,gpt35,,63,2.5
+1951.c,VULNERABLE,buffer overflow on scanf,gpt35,,108,3.0
+70184.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,72,3.5
+75721.c,UNKNOWN (time out),,gpt35,,68,3.0
+71249.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,96,2.4
+8580.c,VULNERABLE,buffer overflow on scanf,gpt35,,198,3.8
+40634.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,101,1.714
+4169.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,111,2.25
+5460.c,VULNERABLE,buffer overflow on scanf,gpt35,,69,10.0
+30133.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,82,7.0
+12816.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,77,4.333
+19136.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,73,2.25
+43878.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,64,3.0
+1765.c,UNKNOWN (time out),,codellama,13.0,70,2.25
+40976.c,VULNERABLE,division by zero,gpt35,,120,3.2
+3764.c,NON-VULNERABLE,,gemma,7.0,67,1.0
+14679.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,132,4.667
+23184.c,UNKNOWN (time out),,falcon,180.0,64,2.25
+67491.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,101,3.0
+30787.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,57,1.333
+3139.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,llama2,13.0,79,2.0
+19267.c,UNKNOWN (time out),,gpt35,,273,2.615
+24149.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,78,3.5
+23835.c,VULNERABLE,buffer overflow on scanf,gpt35,,79,12.0
+15484.c,NON-VULNERABLE,,llama2,13.0,82,1.333
+61920.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,75,4.0
+39103.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,115,15.0
+16564.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,86,3.0
+26372.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,68,1.333
+52435.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,55,8.0
+26451.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,53,2.0
+1434.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,73,2.667
+14690.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,96,2.667
+19692.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,106,3.0
+8957.c,VULNERABLE,arithmetic overflow on sub,gpt4o_mini,,65,1.25
+16789.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,59,2.0
+37214.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,69,4.0
+4699.c,VULNERABLE,arithmetic overflow on sub,codellama,13.0,114,12.0
+18064.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,76,1.833
+21537.c,UNKNOWN (time out),,falcon,180.0,66,5.0
+19698.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,57,1.25
+10999.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,212,7.5
+34038.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,67,7.0
+3532.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,81,2.4
+20891.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,74,2.25
+20902.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,96,4.0
+5969.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,66,3.0
+9285.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,160,4.167
+37762.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,94,3.2
+4860.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,mistral,7.0,51,3.0
+29418.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,170,9.5
+75247.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,101,4.333
+1402.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,79,1.6
+38423.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,110,2.0
+10461.c,VULNERABLE,buffer overflow on scanf,gpt35,,128,3.2
+34.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,69,9.0
+10453.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,56,2.0
+39041.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gemma,7.0,78,13.0
+28559.c,VULNERABLE,dereference failure: array bounds violated,gpt4o_mini,,141,3.625
+24227.c,VULNERABLE,dereference failure: Access to object out of bounds,gpt4o_mini,,105,8.0
+5002.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,52,8.0
+11266.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,95,2.4
+5094.c,NON-VULNERABLE,,codellama,13.0,62,5.0
+38496.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,55,12.0
+58086.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,75,4.0
+12578.c,VULNERABLE,buffer overflow on scanf,gpt35,,137,6.0
+76383.c,VULNERABLE,arithmetic overflow on floating-point ieee_add,gpt35,,65,2.0
+29250.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,82,10.0
+35816.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,51,2.667
+31253.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,68,2.333
+63003.c,VULNERABLE,VLA array size in bytes overflows address space size,falcon,180.0,52,5.5
+66473.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,5.0
+46541.c,UNKNOWN (time out),,falcon,180.0,68,2.2
+6670.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,137,6.333
+8127.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,88,2.25
+10993.c,UNKNOWN (time out),,codellama,13.0,102,30.0
+2091.c,VULNERABLE,dereference failure: invalid pointer,mistral,7.0,121,3.0
+16625.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,3.0
+10822.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,138,2.714
+24447.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,57,5.0
+3047.c,VULNERABLE,array bounds violated: upper bound,gpt35,,60,15.0
+11906.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,127,3.0
+32350.c,VULNERABLE,dereference failure: forgotten memory,gpt4o_mini,,121,2.667
+55587.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,53,5.0
+11234.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,84,3.25
+18221.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,148,1.0
+14464.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,67,2.333
+21045.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,55,8.5
+33845.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,67,3.0
+12809.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,57,1.333
+10511.c,VULNERABLE,arithmetic overflow on sub,falcon2,11.0,129,3.0
+19330.c,UNKNOWN (time out),,gemini_pro,,86,4.5
+9184.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,65,1.75
+33744.c,VULNERABLE,buffer overflow on scanf,gpt35,,168,4.0
+11899.c,VULNERABLE,array bounds violated: lower bound,gpt4o_mini,,112,4.25
+22815.c,VULNERABLE,dereference failure: array bounds violated,gpt4o_mini,,97,3.4
+31598.c,VULNERABLE,dereference failure: invalid pointer,gemma,7.0,55,1.0
+24194.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,89,7.5
+5990.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon2,11.0,79,2.0
+2635.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,132,3.429
+11493.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,219,3.714
+13491.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,100,6.5
+45921.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,85,4.25
+72344.c,VULNERABLE,buffer overflow on scanf,gpt35,,74,2.25
+6115.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,75,2.0
+76712.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,4.0
+32197.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,65,2.333
+21449.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,78,4.5
+57227.c,UNKNOWN (time out),,falcon,180.0,65,8.0
+44903.c,NON-VULNERABLE,,gpt35,,74,4.25
+22881.c,NON-VULNERABLE,,falcon,180.0,76,2.4
+11346.c,VULNERABLE,array bounds violated: lower bound,falcon2,11.0,78,10.0
+28623.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,121,2.667
+65159.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,74,2.8
+779.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,78,5.0
+55893.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,180,4.7780000000000005
+3311.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,81,9.0
+9905.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,5.0
+9647.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,129,5.0
+38102.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,86,3.333
+20598.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,107,1.143
+61165.c,UNKNOWN (time out),,falcon,180.0,77,5.5
+19509.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,148,3.167
+5912.c,PARSING ERROR,,gemma,7.0,100,4.5
+38236.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,89,3.0
+33916.c,UNKNOWN (time out),,falcon,180.0,57,3.667
+8693.c,UNKNOWN (time out),,codellama,13.0,51,2.0
+8692.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,76,2.4
+10947.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,82,1.5
+3332.c,UNKNOWN (time out),,codellama,13.0,65,3.333
+27965.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,135,2.857
+5154.c,UNKNOWN (time out),,gpt4o_mini,,99,2.0
+52779.c,NON-VULNERABLE,,falcon,180.0,79,1.5
+1840.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,55,1.333
+14880.c,VULNERABLE,buffer overflow on scanf,gpt35,,154,4.5
+39235.c,VULNERABLE,buffer overflow on scanf,gpt35,,82,12.0
+38589.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,57,1.333
+40361.c,VULNERABLE,arithmetic overflow on sub,gpt35,,112,3.143
+38907.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,80,8.5
+1703.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,73,2.0
+70495.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,51,3.0
+19966.c,UNKNOWN (time out),,llama2,13.0,60,3.0
+898.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,83,1.667
+21205.c,VULNERABLE,dereference failure: invalid pointer,gemma,7.0,55,1.0
+36165.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,143,2.333
+13430.c,VULNERABLE,buffer overflow on scanf,gpt35,,113,3.8
+65324.c,VULNERABLE,array bounds violated: lower bound,gpt35,,130,7.8
+4040.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,65,3.0
+14381.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,168,6.333
+13087.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,3.5
+2655.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,76,8.0
+22806.c,NON-VULNERABLE,,gpt35,,76,2.2
+5312.c,UNKNOWN (time out),,mistral,7.0,62,8.5
+4297.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,236,2.25
+3335.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,99,2.4
+63485.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,54,10.0
+7742.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,78,5.0
+2913.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,91,2.0
+26019.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,62,2.2
+61009.c,VULNERABLE,buffer overflow on scanf,gpt35,,230,5.2
+9978.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,157,2.0
+8532.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,1.667
+23528.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,4.0
+707.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,72,1.75
+1652.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,86,3.2
+13548.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,66,1.333
+59676.c,VULNERABLE,buffer overflow on scanf,gpt35,,99,3.0
+8628.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,154,21.0
+20339.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,83,2.5
+6.c,VULNERABLE,dereference failure: array bounds violated,gpt4o_mini,,118,3.143
+6539.c,VULNERABLE,arithmetic overflow on mul,gemma,7.0,56,5.0
+17316.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,1.5
+3012.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,98,1.875
+37188.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,147,4.4
+5475.c,UNKNOWN (time out),,gemini_pro,,74,6.0
+14264.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,96,4.0
+11608.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,2.5
+14737.c,UNKNOWN (time out),,gemini_pro,,135,1.4
+34855.c,VULNERABLE,buffer overflow on sscanf,gpt4o_mini,,85,4.0
+71769.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,56,2.0
+67463.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,3.0
+33447.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,79,5.0
+9123.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,90,2.5
+55437.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,89,3.25
+69764.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,59,6.0
+30079.c,UNKNOWN (time out),,gpt35,,70,8.0
+21242.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,83,3.0
+1932.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,89,1.429
+10415.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,56,8.0
+27544.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,68,2.333
+39517.c,VULNERABLE,buffer overflow on scanf,gpt35,,103,10.0
+13532.c,VULNERABLE,dereference failure: invalid pointer,gemma,7.0,87,7.0
+12893.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,78,1.5
+41482.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,72,3.0
+61055.c,VULNERABLE,buffer overflow on scanf,gpt35,,117,10.0
+21200.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,99,5.5
+301.c,UNKNOWN (time out),,llama2,13.0,55,1.667
+377.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,gemma,7.0,54,4.0
+6619.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,64,2.333
+15316.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,82,2.333
+3186.c,VULNERABLE,dereference failure: accessed expired variable pointer,gpt4o_mini,,118,1.778
+13290.c,VULNERABLE,buffer overflow on scanf,gpt35,,85,4.25
+36060.c,UNKNOWN (time out),,gemma,7.0,54,4.0
+8659.c,UNKNOWN (time out),,falcon,180.0,74,5.5
+12061.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,82,3.0
+14292.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,75,5.5
+10091.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,135,1.6
+22680.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,59,5.0
+62860.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,99,1.375
+34275.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,160,25.0
+12235.c,VULNERABLE,buffer overflow on scanf,gpt35,,134,4.0
+11848.c,VULNERABLE,array bounds violated: upper bound,falcon2,11.0,83,17.0
+41140.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,2.0
+58618.c,UNKNOWN (time out),,falcon,180.0,69,4.0
+6856.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,65,8.0
+44656.c,VULNERABLE,arithmetic overflow on sub,gpt35,,119,3.0
+26568.c,PARSING ERROR,,gemini_pro,,138,2.143
+69.c,VULNERABLE,dereference failure: array bounds violated,falcon2,11.0,127,21.0
+26429.c,UNKNOWN (time out),,gpt35,,140,3.25
+29486.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,66,2.25
+6742.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,110,1.75
+56374.c,VULNERABLE,buffer overflow on scanf,gpt35,,136,2.857
+10904.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,72,3.0
+32026.c,VULNERABLE,buffer overflow on fscanf,falcon,180.0,69,5.5
+31925.c,VULNERABLE,arithmetic overflow on mul,gpt4o_mini,,106,2.2
+1380.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,77,3.0
+68214.c,VULNERABLE,buffer overflow on scanf,gpt35,,104,3.8
+31264.c,UNKNOWN (time out),,gpt4o_mini,,111,2.857
+23912.c,VULNERABLE,buffer overflow on scanf,gpt35,,107,4.0
+32712.c,VULNERABLE,buffer overflow on scanf,gpt35,,167,2.778
+10742.c,UNKNOWN (time out),,codellama,13.0,141,6.4
+3651.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,80,2.2
+61039.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,60,2.333
+8541.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,57,1.6
+4076.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,83,4.0
+9336.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,69,7.0
+9400.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,73,1.0
+57294.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,75,1.2
+11309.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,1.75
+1238.c,VULNERABLE,buffer overflow on scanf,gpt35,,99,6.0
+16226.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,2.5
+6262.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,94,1.667
+62753.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,59,2.5
+75428.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,132,4.875
+58547.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,88,6.0
+1940.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,59,4.5
+32954.c,VULNERABLE,buffer overflow on scanf,gpt35,,86,2.667
+37137.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,55,3.0
+64269.c,VULNERABLE,buffer overflow on scanf,gpt35,,98,8.0
+10406.c,VULNERABLE,arithmetic overflow on mul,gpt4o_mini,,148,5.0
+76770.c,VULNERABLE,buffer overflow on scanf,gpt35,,66,3.5
+7984.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,98,2.444
+39386.c,UNKNOWN (time out),,gpt35,,189,12.5
+14719.c,VULNERABLE,buffer overflow on scanf,gpt35,,151,10.0
+6913.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,150,3.667
+23147.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,74,1.5
+6277.c,VULNERABLE,arithmetic overflow on mul,gemini_pro,,165,3.8
+20913.c,VULNERABLE,array bounds violated: lower bound,gpt4o_mini,,88,3.5
+49141.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,53,9.0
+25637.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,73,3.0
+14007.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,108,3.4
+22561.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,63,2.0
+12847.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,57,1.75
+29680.c,UNKNOWN (time out),,falcon,180.0,87,3.6
+18419.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,127,2.857
+10885.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,102,3.25
+42214.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,59,7.0
+30987.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,114,6.75
+54958.c,VULNERABLE,arithmetic overflow on mul,gpt35,,61,1.667
+72457.c,VULNERABLE,buffer overflow on scanf,gpt35,,55,8.0
+1590.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,55,5.0
+8789.c,VULNERABLE,array bounds violated: lower bound,codellama,13.0,109,1.25
+28054.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,93,3.333
+6336.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,78,3.0
+31281.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,135,3.286
+5860.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,88,2.2
+11901.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,62,2.5
+32801.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,60,1.2
+36058.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,65,2.667
+16719.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,93,2.4
+25110.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,85,1.8
+7821.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,143,3.0
+31576.c,UNKNOWN (time out),,falcon,180.0,73,3.0
+9306.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,107,2.0
+24172.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,52,16.0
+12246.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,90,1.833
+19883.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,103,2.5
+3193.c,VULNERABLE,buffer overflow on scanf,gpt35,,137,3.75
+14546.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,130,2.5
+59309.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,136,9.0
+21925.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,97,1.667
+62805.c,VULNERABLE,array bounds violated: lower bound,gpt35,,62,5.0
+46890.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,1.5
+35955.c,PARSING ERROR,,gpt4o_mini,,112,2.667
+7603.c,VULNERABLE,dereference failure: of non-dynamic memory,mistral,7.0,85,2.75
+69861.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,83,2.2
+7931.c,UNKNOWN (time out),,llama2,13.0,112,4.5
+44186.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,54,3.0
+37367.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,80,10.667
+4612.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,123,4.0
+35342.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,98,3.25
+17024.c,PARSING ERROR,,llama2,13.0,66,2.2
+14970.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,67,4.0
+35355.c,UNKNOWN (time out),,gemma,7.0,141,30.0
+20159.c,VULNERABLE,dereference failure: write access to string constant,gpt35,,177,3.167
+7755.c,UNKNOWN (time out),,gpt4o_mini,,71,3.333
+23811.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,68,1.667
+48198.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,76,9.0
+45550.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,70,1.8
+688.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,123,2.6
+42700.c,VULNERABLE,buffer overflow on scanf,gpt35,,139,2.4
+26076.c,VULNERABLE,arithmetic overflow on sub,gpt4o_mini,,104,3.6
+54486.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,70,2.0
+67753.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,92,2.833
+53338.c,UNKNOWN (time out),,gpt35,,115,1.818
+17542.c,VULNERABLE,array bounds violated: lower bound,gpt4o_mini,,113,3.167
+6940.c,UNKNOWN (time out),,gemma,7.0,52,4.0
+46385.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,92,2.333
+28800.c,VULNERABLE,VLA array size in bytes overflows address space size,gemini_pro,,84,23.0
+7720.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,69,1.667
+10266.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,93,4.333
+31237.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,87,7.5
+7612.c,UNKNOWN (time out),,codellama,13.0,53,2.333
+44571.c,UNKNOWN (time out),,falcon,180.0,65,4.0
+49239.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,128,15.0
+35523.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,159,2.333
+16090.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,175,3.333
+8099.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,76,2.333
+9192.c,NON-VULNERABLE,,falcon2,11.0,66,6.0
+24493.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,3.5
+3737.c,VULNERABLE,arithmetic overflow on shl,gpt35,,57,1.0
+7794.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,112,13.0
+38928.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,75,3.2
+1654.c,VULNERABLE,arithmetic overflow on mul,gpt4o_mini,,87,2.6
+33988.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,113,5.75
+1618.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,139,17.0
+6064.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,102,3.833
+7055.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,113,3.714
+66006.c,VULNERABLE,buffer overflow on scanf,gpt35,,147,13.2
+72237.c,VULNERABLE,buffer overflow on scanf,gpt35,,118,4.0
+11199.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,81,2.6
+19338.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gemini_pro,,98,4.75
+33262.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,56,2.0
+26806.c,VULNERABLE,buffer overflow on fscanf,gemini_pro,,206,4.444
+49456.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,145,25.0
+11831.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,85,10.0
+51815.c,VULNERABLE,buffer overflow on scanf,gpt35,,55,1.667
+32651.c,NON-VULNERABLE,,gpt35,,51,1.0
+4528.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,98,10.0
+43671.c,PARSING ERROR,,gemma,7.0,66,5.0
+20096.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,68,2.5
+9271.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,54,5.0
+46910.c,UNKNOWN (time out),,gemma,7.0,81,13.0
+7397.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,88,3.0
+11632.c,VULNERABLE,buffer overflow on scanf,gpt35,,131,3.0
+33133.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,109,2.333
+16608.c,UNKNOWN (time out),,gpt4o_mini,,131,5.167
+19860.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,136,2.6
+66539.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,72,5.0
+7427.c,VULNERABLE,arithmetic overflow on add,codellama,13.0,167,2.636
+9999.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,124,3.286
+3734.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,128,2.5
+4881.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,98,2.0
+1363.c,VULNERABLE,array bounds violated: upper bound,gpt35,,118,4.5
+2058.c,UNKNOWN (time out),,falcon2,11.0,82,1.0
+28092.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,98,2.8
+30192.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,104,3.4
+29650.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,127,2.143
+45285.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,82,3.5
+6295.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,2.0
+18928.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,123,2.375
+39729.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,85,4.5
+5193.c,NON-VULNERABLE,,gemma,7.0,51,5.0
+43024.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,58,2.25
+27200.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,107,2.5
+22412.c,VULNERABLE,arithmetic overflow on sub,gpt4o_mini,,90,2.0
+31257.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,4.0
+33488.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,74,2.2
+58125.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,14.0
+57235.c,UNKNOWN (time out),,gpt35,,84,9.0
+7955.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,110,6.0
+906.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,51,5.0
+33130.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,123,4.5
+51806.c,VULNERABLE,arithmetic overflow on sub,gpt35,,113,4.167
+22673.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,54,1.0
+1903.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,105,3.6
+27499.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,136,5.667
+11799.c,VULNERABLE,buffer overflow on scanf,gpt35,,204,4.0
+30491.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,80,8.0
+41358.c,VULNERABLE,arithmetic overflow on add,gemma,7.0,56,6.0
+61850.c,VULNERABLE,buffer overflow on scanf,gpt35,,155,4.4
+39923.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,115,6.667
+52960.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,98,5.8
+29241.c,VULNERABLE,arithmetic overflow on sub,gpt35,,54,1.0
+18130.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,100,1.833
+29593.c,UNKNOWN (time out),,gemma,7.0,64,10.0
+30243.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,61,5.0
+62917.c,VULNERABLE,buffer overflow on scanf,gpt35,,154,4.75
+4747.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,59,1.667
+37400.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,131,2.571
+46549.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,93,3.75
+10202.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,113,4.5
+13488.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,97,2.429
+10686.c,UNKNOWN (time out),,gpt35,,93,1.667
+17853.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,70,4.0
+10859.c,VULNERABLE,buffer overflow on scanf,llama2,13.0,57,3.0
+38578.c,UNKNOWN (time out),,gpt4o_mini,,129,6.25
+9217.c,VULNERABLE,buffer overflow on scanf,gpt35,,98,12.0
+54586.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,200,3.8
+27883.c,VULNERABLE,array bounds violated: lower bound,gpt35,,95,55.0
+3455.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,84,1.833
+8187.c,VULNERABLE,buffer overflow on scanf,gpt35,,135,3.143
+19397.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,75,5.0
+4597.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,78,3.5
+9614.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,52,7.0
+13952.c,NON-VULNERABLE,,gemini_pro,,70,2.333
+42766.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,67,15.0
+33783.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,134,3.167
+44459.c,VULNERABLE,arithmetic overflow on div,falcon,180.0,78,3.2
+4999.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,79,4.5
+57734.c,UNKNOWN (time out),,gpt35,,95,6.5
+13242.c,VULNERABLE,buffer overflow on scanf,gpt35,,101,2.833
+33273.c,VULNERABLE,array bounds violated: lower bound,gpt35,,186,4.167
+10427.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,51,1.0
+39189.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,76,1.75
+11887.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,64,7.0
+36954.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,103,5.5
+19968.c,VULNERABLE,buffer overflow on fscanf,gpt4o_mini,,107,2.286
+12141.c,VULNERABLE,buffer overflow on scanf,gpt35,,75,10.0
+12318.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,141,2.6
+21458.c,VULNERABLE,dereference failure: invalid pointer,gemma,7.0,68,1.5
+38738.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,52,4.0
+40334.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,64,2.0
+35636.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,109,3.0
+27599.c,VULNERABLE,buffer overflow on scanf,gpt35,,70,1.143
+61156.c,UNKNOWN (time out),,falcon,180.0,83,4.333
+26209.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,215,10.2
+6863.c,NON-VULNERABLE,,mistral,7.0,51,1.333
+5305.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,77,3.333
+22042.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,62,2.667
+23829.c,VULNERABLE,buffer overflow on scanf,gpt35,,111,12.0
+22207.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,53,1.667
+35789.c,UNKNOWN (time out),,gemini_pro,,51,3.0
+8849.c,VULNERABLE,buffer overflow on scanf,gpt35,,65,1.8
+43463.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,61,2.25
+24096.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,2.0
+18945.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,135,4.0
+15341.c,UNKNOWN (time out),,gpt4o_mini,,74,2.5
+44911.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,66,2.333
+17407.c,VULNERABLE,buffer overflow on fscanf,gpt4o_mini,,85,3.0
+64937.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,61,6.0
+42988.c,UNKNOWN (time out),,gemma,7.0,61,10.0
+2025.c,UNKNOWN (time out),,gpt4o_mini,,121,5.667
+47691.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,100,8.0
+12025.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,55,1.333
+65830.c,VULNERABLE,buffer overflow on scanf,gpt35,,76,11.0
+17961.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,97,5.0
+30445.c,UNKNOWN (time out),,gpt4o_mini,,108,1.6
+25602.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,71,11.0
+8599.c,NON-VULNERABLE,,gpt35,,53,3.5
+3614.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,79,1.8
+13716.c,NON-VULNERABLE,,gpt35,,80,4.25
+1494.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,76,5.0
+29305.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,89,1.778
+14152.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,54,1.25
+2546.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,65,9.0
+21300.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,79,2.0
+4583.c,UNKNOWN (time out),,llama2,13.0,63,2.25
+6579.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,210,3.727
+7932.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,56,2.0
+9037.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,68,2.5
+77597.c,VULNERABLE,buffer overflow on scanf,gpt35,,65,7.0
+24250.c,NON-VULNERABLE,,falcon,180.0,60,2.0
+22728.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,96,1.8
+32651.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,70,4.667
+3444.c,NON-VULNERABLE,,gemma,7.0,54,2.333
+42731.c,NON-VULNERABLE,,gpt35,,105,4.5
+13693.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,107,3.0
+5297.c,VULNERABLE,arithmetic overflow on add,gemma,7.0,82,1.0
+14915.c,VULNERABLE,dereference failure: array bounds violated,falcon,180.0,78,7.0
+4325.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,3.333
+2900.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,77,4.0
+54401.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,67,2.0
+29934.c,VULNERABLE,dereference failure: array bounds violated,gemini_pro,,96,1.8
+38457.c,UNKNOWN (time out),,falcon,180.0,59,1.667
+45062.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,103,18.0
+8502.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt4o_mini,,115,1.857
+33942.c,VULNERABLE,buffer overflow on scanf,gpt35,,153,4.143
+61182.c,VULNERABLE,array bounds violated: upper bound,gpt35,,57,5.0
+8383.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,81,1.833
+39037.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,58,4.0
+38172.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,101,1.857
+8712.c,VULNERABLE,the pointer to a file object must be a valid argument,gemma,7.0,69,5.0
+61237.c,UNKNOWN (time out),,falcon,180.0,54,3.0
+18439.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,120,2.375
+2583.c,VULNERABLE,buffer overflow on scanf,gpt35,,77,3.5
+57708.c,VULNERABLE,array bounds violated: lower bound,gpt35,,110,5.333
+36574.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,139,3.333
+12343.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,124,3.2
+50674.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,57,1.6
+5645.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,53,4.0
+9527.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,61,1.75
+24863.c,UNKNOWN (time out),,gpt35,,107,5.0
+59291.c,NON-VULNERABLE,,gpt35,,88,4.0
+54834.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,59,2.667
+14858.c,VULNERABLE,array bounds violated: lower bound,gemma,7.0,53,6.0
+4680.c,VULNERABLE,dereference failure: Access to object out of bounds,gpt4o_mini,,103,3.0
+30577.c,UNKNOWN (time out),,gemini_pro,,65,2.25
+27267.c,VULNERABLE,buffer overflow on scanf,gpt35,,65,7.0
+11132.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,67,1.25
+8080.c,VULNERABLE,the pointer to a file object must be a valid argument,codellama,13.0,63,2.667
+61844.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,64,3.5
+4557.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt35,,100,17.0
+316.c,UNKNOWN (time out),,llama2,13.0,67,6.0
+35376.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,56,7.0
+11632.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,97,2.5
+5114.c,VULNERABLE,buffer overflow on sscanf,mistral,7.0,80,7.5
+16602.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,80,10.0
+7330.c,PARSING ERROR,,llama2,13.0,61,5.0
+27807.c,NON-VULNERABLE,,gpt35,,52,1.333
+2643.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,114,4.0
+66108.c,PARSING ERROR,,gpt35,,155,4.0
+56056.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,90,1.375
+4316.c,VULNERABLE,buffer overflow on fscanf,mistral,7.0,73,3.667
+27533.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,55,6.0
+62718.c,VULNERABLE,buffer overflow on scanf,gpt35,,156,3.571
+3566.c,UNKNOWN (time out),,mistral,7.0,64,6.5
+3047.c,NON-VULNERABLE,,gpt4o_mini,,56,1.667
+26027.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,85,1.714
+35311.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,55,5.0
+37183.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,72,3.5
+4554.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,110,6.0
+33321.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,89,1.833
+10550.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,111,8.667
+66295.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,103,2.667
+5706.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,71,7.0
+29078.c,VULNERABLE,buffer overflow on gets,gemini_pro,,139,3.6
+53943.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,118,2.429
+31550.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,103,2.6
+68361.c,VULNERABLE,buffer overflow on scanf,gpt35,,70,2.0
+803.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,4.0
+10621.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,104,3.75
+25380.c,UNKNOWN (time out),,gpt4o_mini,,78,3.667
+41422.c,UNKNOWN (time out),,falcon,180.0,73,5.5
+10542.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,72,1.8
+33790.c,UNKNOWN (time out),,falcon,180.0,94,1.857
+35410.c,VULNERABLE,buffer overflow on scanf,gpt35,,119,3.167
+55476.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,114,3.8
+12408.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,65,3.333
+35018.c,VULNERABLE,array bounds violated: upper bound,gpt4o_mini,,104,8.0
+40659.c,NON-VULNERABLE,,gpt35,,73,2.25
+65760.c,UNKNOWN (time out),,gpt35,,100,2.4
+41684.c,UNKNOWN (time out),,falcon,180.0,65,6.0
+15668.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,83,6.0
+53281.c,UNKNOWN (time out),,gpt35,,78,6.0
+1245.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,88,2.0
+25093.c,UNKNOWN (time out),,gpt4o_mini,,76,2.4
+28126.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,105,3.6
+5490.c,VULNERABLE,dereference failure: invalid pointer,gpt4o_mini,,148,4.111
+67905.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,116,2.125
+61560.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,51,1.75
+60080.c,UNKNOWN (time out),,gpt35,,112,2.25
+12440.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,60,1.667
+11404.c,UNKNOWN (time out),,falcon,180.0,85,3.0
+28843.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,2.333
+31159.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,87,3.2
+633.c,UNKNOWN (time out),,mistral,7.0,58,2.8
+540.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,57,2.75
+43966.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,108,3.8
+35661.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,98,2.8
+27529.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon,180.0,73,3.667
+33698.c,UNKNOWN (time out),,falcon,180.0,77,3.2
+19385.c,VULNERABLE,buffer overflow on scanf,gpt35,,84,9.0
+76521.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,83,2.6
+3297.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,56,4.0
+4009.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,61,1.75
+39681.c,UNKNOWN (time out),,gpt4o_mini,,124,2.444
+11987.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,99,3.5
+18461.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,165,3.286
+72871.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,93,2.333
+76968.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,111,10.0
+6409.c,VULNERABLE,array bounds violated: upper bound,gemini_pro,,83,3.5
+23387.c,VULNERABLE,arithmetic overflow on mul,gpt35,,183,6.333
+44551.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,64,8.0
+1959.c,VULNERABLE,dereference failure: invalid pointer,falcon2,11.0,55,8.0
+5008.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,96,3.667
+43303.c,VULNERABLE,buffer overflow on scanf,gpt35,,59,2.0
+8741.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,101,2.8
+8019.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,70,1.4
+36752.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,124,5.0
+48694.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,92,2.2
+14724.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,56,3.0
+68655.c,VULNERABLE,buffer overflow on scanf,gpt35,,94,4.2
+4923.c,VULNERABLE,array bounds violated: upper bound,mistral,7.0,93,3.4
+24710.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,109,16.0
+10060.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,81,1.5710000000000002
+465.c,UNKNOWN (time out),,gemini_pro,,100,1.25
+30654.c,VULNERABLE,buffer overflow on scanf,gpt35,,136,6.0
+9004.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,90,2.4
+7836.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,63,1.143
+14131.c,NON-VULNERABLE,,llama2,13.0,68,3.333
+22807.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,70,4.0
+38485.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,71,2.75
+63224.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,140,3.429
+38210.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,63,20.0
+30966.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,57,2.333
+12178.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,52,3.5
+67812.c,UNKNOWN (time out),,falcon,180.0,101,4.8
+37011.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,68,3.333
+18129.c,UNKNOWN (time out),,falcon,180.0,51,8.0
+63584.c,VULNERABLE,buffer overflow on scanf,gpt35,,168,6.833
+65065.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,58,3.0
+17487.c,VULNERABLE,arithmetic overflow on div,llama2,13.0,76,10.0
+73414.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt35,,52,1.333
+46588.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,69,4.0
+32096.c,VULNERABLE,array bounds violated: upper bound,gpt35,,92,4.5
+45119.c,UNKNOWN (time out),,falcon,180.0,78,6.0
+22032.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,1.667
+17898.c,VULNERABLE,dereference failure: Access to object out of bounds,llama2,13.0,129,7.25
+20172.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,74,1.667
+12943.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,146,7.0
+8588.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,124,3.333
+10279.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,63,3.333
+24107.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,55,1.667
+46556.c,VULNERABLE,array bounds violated: lower bound,gpt35,,56,3.667
+134.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,72,2.0
+20453.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,77,3.75
+33962.c,VULNERABLE,buffer overflow on fscanf,gemini_pro,,85,2.0
+10690.c,VULNERABLE,buffer overflow on scanf,gpt35,,55,4.5
+5983.c,VULNERABLE,buffer overflow on fscanf,mistral,7.0,85,3.5
+51430.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,178,4.5
+7629.c,VULNERABLE,array bounds violated: upper bound,falcon2,11.0,71,3.75
+5733.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,135,2.444
+62336.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,88,3.0
+40250.c,UNKNOWN (time out),,gemma,7.0,70,13.0
+1574.c,VULNERABLE,arithmetic overflow on add,gpt35,,53,1.0
+31774.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,70,2.0
+62622.c,VULNERABLE,buffer overflow on scanf,gpt35,,111,3.4
+5461.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,174,3.571
+5903.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,132,3.25
+21692.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,68,2.75
+6836.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,113,3.167
+2062.c,UNKNOWN (time out),,llama2,13.0,73,8.0
+57331.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,108,4.5
+34168.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,190,4.0
+3864.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,93,1.429
+5240.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,58,2.667
+19163.c,VULNERABLE,buffer overflow on scanf,gpt35,,55,3.333
+19013.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,56,1.5
+5242.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,95,12.0
+11506.c,UNKNOWN (time out),,falcon,180.0,51,8.0
+42919.c,VULNERABLE,buffer overflow on scanf,gpt35,,156,3.857
+11146.c,UNKNOWN (time out),,falcon,180.0,62,6.0
+7454.c,PARSING ERROR,,gpt4o_mini,,96,4.0
+20634.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,54,7.0
+37609.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,99,2.6
+30283.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,82,4.333
+31863.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon,180.0,76,2.0
+26258.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,83,3.5
+51469.c,UNKNOWN (time out),,falcon,180.0,64,3.0
+25012.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,65,2.5
+14973.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,98,3.75
+7980.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,81,3.333
+51406.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,89,2.6
+56425.c,VULNERABLE,buffer overflow on scanf,gpt35,,122,10.0
+18149.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,110,6.0
+56782.c,VULNERABLE,buffer overflow on scanf,gpt35,,155,4.4
+6508.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,57,3.0
+59688.c,VULNERABLE,buffer overflow on scanf,gpt35,,104,5.333
+5436.c,NON-VULNERABLE,,llama2,13.0,57,3.5
+71638.c,VULNERABLE,buffer overflow on scanf,gpt35,,138,12.0
+5355.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,74,1.6
+21338.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,82,8.0
+63419.c,VULNERABLE,buffer overflow on fscanf,falcon,180.0,65,3.0
+57802.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,80,9.0
+71753.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,129,4.5
+5442.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,90,3.0
+15626.c,VULNERABLE,buffer overflow on scanf,gpt35,,70,7.0
+10147.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,79,1.667
+1983.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,101,3.4
+30592.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,56,3.5
+10494.c,PARSING ERROR,,llama2,13.0,93,3.5
+3677.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,76,1.429
+56196.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,1.833
+32736.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,69,1.75
+21851.c,NON-VULNERABLE,,gemma,7.0,64,2.0
+38766.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt35,,54,5.0
+10819.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,129,4.0
+70441.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon,180.0,61,1.0
+70978.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,65,3.0
+38519.c,UNKNOWN (time out),,gpt4o_mini,,84,6.5
+5266.c,VULNERABLE,dereference failure: invalid pointer,mistral,7.0,73,5.0
+3366.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,87,3.25
+42542.c,UNKNOWN (time out),,gpt35,,151,22.0
+75458.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,95,1.5
+6070.c,VULNERABLE,arithmetic overflow on sub,gemma,7.0,76,3.5
+43698.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,68,5.5
+3108.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,139,4.429
+3427.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,81,3.667
+11647.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,73,7.0
+3100.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,93,2.6
+15029.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,164,3.125
+25026.c,VULNERABLE,array bounds violated: upper bound,gpt35,,110,2.333
+8759.c,VULNERABLE,buffer overflow on scanf,falcon2,11.0,57,8.0
+20217.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,68,5.5
+28128.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,67,2.667
+31735.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,106,1.286
+7133.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,82,3.333
+24724.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,62,8.0
+76070.c,VULNERABLE,buffer overflow on scanf,gpt35,,122,4.25
+10369.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,100,2.8
+40293.c,VULNERABLE,buffer overflow on scanf,gpt35,,58,7.0
+77571.c,VULNERABLE,VLA array size in bytes overflows address space size,gpt35,,60,8.0
+49310.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,73,7.0
+45552.c,VULNERABLE,arithmetic overflow on add,gpt35,,100,4.667
+66699.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,130,5.333
+15095.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,161,10.0
+49993.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,63,3.333
+19649.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,72,1.429
+4235.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,244,3.083
+10039.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,92,1.875
+15059.c,VULNERABLE,array bounds violated: lower bound,gemini_pro,,160,17.5
+39351.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,60,9.0
+37479.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,77,1.833
+19570.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,69,1.8
+22960.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,95,2.2
+38302.c,VULNERABLE,buffer overflow on scanf,gpt35,,65,2.333
+34660.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,99,3.0
+15934.c,UNKNOWN (time out),,gpt35,,53,1.75
+4774.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,55,1.25
+15986.c,UNKNOWN (time out),,llama2,13.0,52,5.0
+18258.c,VULNERABLE,dereference failure: write access to string constant,gemini_pro,,64,9.0
+9529.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,73,3.5
+9893.c,VULNERABLE,array bounds violated: lower bound,gemini_pro,,63,5.0
+8759.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,114,3.0
+9859.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,74,8.0
+42822.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,66,6.0
+44031.c,UNKNOWN (time out),,gemma,7.0,63,6.0
+8502.c,VULNERABLE,dereference failure: NULL pointer,mistral,7.0,63,2.5
+33594.c,VULNERABLE,array bounds violated: lower bound,gpt4o_mini,,107,5.0
+26943.c,VULNERABLE,array bounds violated: upper bound,gemma,7.0,66,3.333
+1239.c,VULNERABLE,array bounds violated: lower bound,codellama,13.0,86,1.5
+16183.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,gemma,7.0,73,7.0
+46833.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,51,2.5
+4374.c,VULNERABLE,arithmetic overflow on add,gpt35,,101,11.0
+27752.c,UNKNOWN (time out),,gpt35,,134,2.333
+16625.c,VULNERABLE,dereference failure: forgotten memory,gemma,7.0,59,3.0
+54863.c,VULNERABLE,array bounds violated: lower bound,falcon,180.0,84,6.0
+6934.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,86,2.6
+71073.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,70,5.0
+31195.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,100,2.25
+25710.c,VULNERABLE,buffer overflow on scanf,gpt35,,189,20.0
+16399.c,UNKNOWN (time out),,llama2,13.0,72,1.429
+27469.c,VULNERABLE,buffer overflow on scanf,gpt35,,129,3.143
+35488.c,VULNERABLE,buffer overflow on scanf,gpt35,,58,8.0
+34392.c,UNKNOWN (time out),,gpt4o_mini,,88,3.25
+29946.c,VULNERABLE,dereference failure: invalid pointer,falcon,180.0,74,2.5
+22853.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt4o_mini,,86,5.5
+39212.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,69,1.667
+3280.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,105,1.333
+9238.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,68,1.75
+6940.c,VULNERABLE,arithmetic overflow on add,llama2,13.0,82,8.0
+34674.c,NON-VULNERABLE,,gemma,7.0,65,3.0
+3803.c,NON-VULNERABLE,,gemini_pro,,80,4.0
+12902.c,PARSING ERROR,,llama2,13.0,64,3.667
+38317.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,93,2.0
+52562.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,171,68.5
+3590.c,VULNERABLE,dereference failure: invalid pointer,llama2,13.0,61,1.333
+14785.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,87,2.2
+21055.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,99,3.667
+7722.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,57,1.5
+19231.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,66,3.667
+35720.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,193,4.0
+37915.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,129,2.0
+41822.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,194,2.727
+23559.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,66,6.0
+8807.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,120,4.667
+17277.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,101,8.0
+40030.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,111,1.0
+69805.c,VULNERABLE,buffer overflow on scanf,gpt35,,71,6.0
+4383.c,VULNERABLE,arithmetic overflow on sub,gemini_pro,,109,2.0
+10337.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,171,5.0
+45215.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,61,6.0
+1669.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,160,3.286
+34959.c,UNKNOWN (time out),,gpt35,,78,3.333
+12782.c,VULNERABLE,buffer overflow on scanf,gpt35,,56,12.0
+7558.c,NON-VULNERABLE,,mistral,7.0,64,1.8
+14686.c,UNKNOWN (time out),,falcon,180.0,83,21.0
+23407.c,VULNERABLE,buffer overflow on scanf,gemini_pro,,137,3.25
+17775.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,60,5.0
+16465.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,209,3.0
+29258.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,82,12.0
+49219.c,UNKNOWN (time out),,falcon,180.0,84,2.0
+39709.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,110,3.286
+731.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,109,1.857
+5581.c,VULNERABLE,array bounds violated: lower bound,falcon2,11.0,75,4.5
+45582.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,falcon,180.0,66,2.667
+30190.c,VULNERABLE,buffer overflow on sscanf,gemini_pro,,151,21.0
+11920.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,65,4.0
+2963.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,95,3.5
+9533.c,VULNERABLE,dereference failure: invalid pointer,codellama,13.0,91,2.0
+64495.c,VULNERABLE,buffer overflow on scanf,gpt35,,193,5.5
+40931.c,PARSING ERROR,,gemma,7.0,51,5.0
+16061.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,57,3.5
+13582.c,VULNERABLE,dereference failure: invalid pointer,gemini_pro,,76,3.667
+16690.c,VULNERABLE,buffer overflow on fscanf,gpt35,,117,18.0
+41672.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,62,7.0
+18620.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,55,3.333
+8704.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,52,1.667
+68398.c,VULNERABLE,array bounds violated: upper bound,falcon,180.0,82,6.0
+69298.c,VULNERABLE,buffer overflow on scanf,gpt35,,100,3.0
+12003.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,66,2.75
+32129.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,103,14.0
+40964.c,UNKNOWN (time out),,gemma,7.0,51,2.333
+5625.c,UNKNOWN (time out),,gpt4o_mini,,105,3.0
+14363.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,165,4.857
+15520.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,128,3.429
+1972.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,68,4.5
+34720.c,VULNERABLE,dereference failure: array bounds violated,gemma,7.0,55,2.0
+5178.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,115,8.0
+663.c,VULNERABLE,buffer overflow on scanf,codellama,13.0,173,3.571
+15605.c,UNKNOWN (time out),,llama2,13.0,63,2.0
+13483.c,VULNERABLE,dereference failure: forgotten memory,llama2,13.0,71,3.0
+37066.c,VULNERABLE,arithmetic overflow on add,gpt35,,177,5.0
+39730.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,61,1.25
+9060.c,VULNERABLE,VLA array size in bytes overflows address space size,gpt35,,100,3.8
+11536.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,69,4.0
+37947.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,58,1.333
+51796.c,VULNERABLE,buffer overflow on scanf,gpt35,,129,6.167
+37879.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,54,1.667
+37680.c,VULNERABLE,buffer overflow on fscanf,gpt35,,82,3.75
+76323.c,VULNERABLE,dereference failure: array bounds violated,gpt35,,78,2.25
+25044.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,77,7.0
+2908.c,VULNERABLE,arithmetic overflow on floating-point ieee_div,mistral,7.0,55,1.5
+23538.c,UNKNOWN (time out),,gemini_pro,,222,5.556
+39564.c,VULNERABLE,buffer overflow on scanf,gpt35,,79,3.0
+22712.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,115,4.25
+71771.c,UNKNOWN (time out),,falcon,180.0,73,3.667
+1665.c,VULNERABLE,dereference failure: NULL pointer,falcon2,11.0,81,6.0
+51535.c,UNKNOWN (time out),,gpt35,,52,5.5
+17789.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,145,4.25
+21194.c,UNKNOWN (time out),,gemini_pro,,53,5.0
+76712.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,115,4.0
+8119.c,VULNERABLE,buffer overflow on scanf,gpt35,,92,3.25
+3905.c,VULNERABLE,division by zero,gpt35,,85,2.5
+10476.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,201,3.889
+11939.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,103,1.833
+34270.c,VULNERABLE,array bounds violated: upper bound,gpt35,,116,7.0
+57547.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,117,2.0
+25184.c,VULNERABLE,dereference failure: forgotten memory,falcon,180.0,97,2.4
+25279.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,62,3.0
+3500.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,85,3.5
+30613.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,61,1.8
+26221.c,VULNERABLE,arithmetic overflow on sub,gpt35,,104,8.0
+24703.c,VULNERABLE,dereference failure: forgotten memory,gemini_pro,,85,3.0
+20767.c,VULNERABLE,arithmetic overflow on floating-point ieee_mul,gpt35,,94,5.25
+3221.c,VULNERABLE,buffer overflow on scanf,gpt4o_mini,,108,3.0
+8088.c,VULNERABLE,dereference failure: NULL pointer,llama2,13.0,94,6.25
+26874.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,62,7.0
+68029.c,VULNERABLE,dereference failure: invalid pointer,gpt35,,96,11.0
+48486.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,87,1.5710000000000002
+30823.c,VULNERABLE,arithmetic overflow on add,falcon,180.0,54,2.0
+44909.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,68,3.0
+15960.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,81,2.0
+27006.c,VULNERABLE,dereference failure: array bounds violated,gpt4o_mini,,87,3.167
+2383.c,VULNERABLE,VLA array size in bytes overflows address space size,falcon2,11.0,114,22.0
+9919.c,VULNERABLE,dereference failure: NULL pointer,codellama,13.0,64,2.5
+46444.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,2.0
+11309.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,63,1.75
+22760.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,147,6.2
+14615.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,70,3.5
+21920.c,VULNERABLE,dereference failure: NULL pointer,gpt4o_mini,,92,2.0
+13766.c,VULNERABLE,buffer overflow on scanf,falcon,180.0,93,3.2
+810.c,VULNERABLE,buffer overflow on scanf,mistral,7.0,80,4.5
+39255.c,VULNERABLE,buffer overflow on scanf,gemma,7.0,65,3.0
+17693.c,VULNERABLE,dereference failure: NULL pointer,gemini_pro,,116,2.5
+41614.c,VULNERABLE,array bounds violated: lower bound,gpt35,,98,4.0
+66715.c,VULNERABLE,dereference failure: NULL pointer,gpt35,,67,1.5
+15327.c,UNKNOWN (time out),,llama2,13.0,88,8.0
+33207.c,NON-VULNERABLE,,gemini_pro,,82,2.0
+34805.c,VULNERABLE,dereference failure: forgotten memory,gpt35,,58,3.5
+60149.c,VULNERABLE,dereference failure: NULL pointer,falcon,180.0,52,10.0
+12887.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,69,3.333
+15307.c,NON-VULNERABLE,,llama2,13.0,67,1.0
+1225.c,VULNERABLE,dereference failure: NULL pointer,gemma,7.0,51,1.667
