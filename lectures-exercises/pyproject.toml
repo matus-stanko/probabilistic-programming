@@ -1,0 +1,30 @@
+[project]
+name = "2026-prpro-spring"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arviz==0.23.1",
+    "causalgraphicalmodels",
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "pandas>=3.0.0",
+    "pooch>=1.8.2",
+    "pymc>=5.27.0",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "tabulate>=0.9.0",
+    "watermark>=2.6.0",
+    "xarray>=2025.12.0",
+]
+
+[project.optional-dependencies]
+rendering = [
+    "notebook>=7.5.5",
+    "pip>=26.0.1",
+]
+
+
+[tool.uv.sources]
+causalgraphicalmodels = { git = "https://github.com/itu-square/causalgraphicalmodels.git" }
